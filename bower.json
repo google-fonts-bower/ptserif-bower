@@ -1,0 +1,17 @@
+{
+    "name": "ptserif-googlefont",
+    "license": "OFL",
+    "authors": [
+        "ParaType"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/ptserif-bower.git"
+    },
+    "description": "PT Serif font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
